@@ -1,11 +1,4 @@
 package starblinker;
-
-import java.awt.Container;
-import java.util.Scanner;
-import javax.swing.JFrame;
-
-
-
 /**
  *
  * @author Luke Yaegel
