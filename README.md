@@ -1,6 +1,6 @@
 # Star Blinker
 
-This was a school project I made for a Java class. It's a simple program that runs a thread with 'repaint()' to create a blinking star. 
+This was a school project I made for a Java class. It's a simple program that uses Graphics2D and runs a thread with 'repaint()' to create a blinking star. 
 
 It's been tweaked a little since then. I have added an icon and changed the image/wording around.
 
